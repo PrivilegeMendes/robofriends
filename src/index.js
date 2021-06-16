@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom'; // could be react native for mobile
 import './index.css';
-// import Card from './Card'; // no extension assumes it is a .js
 import App from './containers/App';
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
